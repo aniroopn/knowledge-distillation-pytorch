@@ -12,9 +12,9 @@ import shutil
 import torch
 from collections import OrderedDict
 
-import tensorflow as tf
+# import tensorflow as tf
 import numpy as np
-import scipy.misc 
+# import scipy.misc 
 try:
     from StringIO import StringIO  # Python 2.7
 except ImportError:
